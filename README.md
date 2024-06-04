@@ -2,7 +2,7 @@
 
 This project is part of my journey to learn more about PyTorch, a powerful open-source machine learning library, and OpenCV (cv2), a library of programming functions mainly aimed at real-time computer vision. By building a model to predict Brazilian coin denominations from images, I aim to gain hands-on experience and deepen my understanding of how to use PyTorch and cv2 for real-world machine learning tasks.
 
-In this notebook, I will be using the br-coins dataset to create a Convolutional Neural Network (CNN) model for image classification. The goal is to accurately predict the denomination of Brazilian coins based on images. Additionally, I will be using cv2 to identify circles in the images, which represent the coins.
+In this notebook, I will be using the br-coins(https://www.kaggle.com/datasets/lgmoneda/br-coins) dataset to create a Convolutional Neural Network (CNN) model for image classification. The goal is to accurately predict the denomination of Brazilian coins based on images. Additionally, I will be using cv2 to identify circles in the images, which represent the coins.
 
 The steps we will follow are:
 
@@ -19,7 +19,7 @@ By the end of this project, I hope to have a working model and a better understa
 
 Este projeto faz parte da minha jornada para aprender mais sobre PyTorch, uma poderosa biblioteca de aprendizado de máquina de código aberto, e OpenCV (cv2), uma biblioteca de funções de programação voltada principalmente para visão computacional em tempo real. Ao construir um modelo para prever as denominações de moedas brasileiras a partir de imagens, pretendo ganhar experiência prática e aprofundar minha compreensão de como usar o PyTorch e o cv2 para tarefas de aprendizado de máquina do mundo real.
 
-Neste notebook, estarei usando o conjunto de dados br-coins para criar um modelo de Rede Neural Convolucional (CNN) para classificação de imagens. O objetivo é prever com precisão a denominação das moedas brasileiras com base nas imagens. Além disso, estarei usando o cv2 para identificar círculos nas imagens, que representam as moedas.
+Neste notebook, estarei usando o conjunto de dados br-coins(https://www.kaggle.com/datasets/lgmoneda/br-coins) para criar um modelo de Rede Neural Convolucional (CNN) para classificação de imagens. O objetivo é prever com precisão a denominação das moedas brasileiras com base nas imagens. Além disso, estarei usando o cv2 para identificar círculos nas imagens, que representam as moedas.
 
 As etapas que seguiremos são:
 
